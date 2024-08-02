@@ -1,9 +1,5 @@
 ## Hi there 😎
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmolgga" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=molgga&show_icons=true&theme=dracula&bg_color=45,444,111&title_color=fff" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
 
 
