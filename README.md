@@ -1,11 +1,12 @@
-## Hi there 😎
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
-
 ## 개인 프로젝트
 
 앱: https://j-wantplan.web.app \
 토이: https://jood-lab.web.app
+
+
+## Hi there 😎
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
 
 ## 관심 키워드
 
