@@ -1,7 +1,7 @@
 ## 개인 프로젝트
 
-앱: https://j-wantplan.web.app \
-토이: https://jood-lab.web.app
+토이: https://jood-lab.web.app \
+앱: ...
 
 ## 관련 키워드
 
