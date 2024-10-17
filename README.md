@@ -2,9 +2,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
 
+## 개인 프로젝트
 
+앱: https://j-wantplan.web.app \
+토이: https://jood-lab.web.app
 
-## Skills & Interests 👀 🤩 👍
+## 관심 키워드
 
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></span>
