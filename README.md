@@ -1,6 +1,6 @@
-## 개인 프로젝트
+## 링크
 
-토이: https://jood-lab.web.app
+토이 프로젝트: https://jood-lab.web.app
 
 ## 관련 키워드
 
