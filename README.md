@@ -1,6 +1,7 @@
-## 링크
 
-토이 프로젝트: https://jood-lab.web.app
+## Hi there 😎
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
 
 ## 관련 키워드
 
@@ -17,8 +18,6 @@
 <span><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/NPM-%23ff2200.svg?style=for-the-badge&logo=npm&logoColor=white" /></span>
 
-## Hi there 😎
+## 링크
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
-
-
+토이 프로젝트: https://jood-lab.web.app
