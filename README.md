@@ -1,23 +1,19 @@
 
 ## Hi there 😎
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molgga&hide_langs_below=1&layout=compact&theme=dracula&bg_color=45,444,111&title_color=fff" />
-
-## 관련 키워드
-
-<span><img src="https://img.shields.io/badge/javascript-%23ff0000.svg?style=for-the-badge&logo=javascript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /></span>
+<span><img src="https://img.shields.io/badge/react-%23087ea4.svg?style=for-the-badge&logo=react&logoColor=%23ffffff" /></span>
+<span><img src="https://img.shields.io/badge/nextjs-%23111111.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff" /></span>
+<span><img src="https://img.shields.io/badge/vuejs-%2342b883.svg?style=for-the-badge&logo=vuedotjs&logoColor=%23ffffff" /></span>
+<span><img src="https://img.shields.io/badge/nuxtjs-%2303c16a.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%23ffffff" /></span>
+
 <span><img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/NPM-%23ff2200.svg?style=for-the-badge&logo=npm&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/PNPM-%23f9ad00.svg?style=for-the-badge&logo=pnpm&logoColor=white" /></span>
 
-## 링크
-
-토이 프로젝트: https://jood-lab.web.app
+<span><img src="https://img.shields.io/badge/javascript-%23ff0000.svg?style=for-the-badge&logo=javascript&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></span>
