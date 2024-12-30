@@ -17,12 +17,14 @@
 <span><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/PNPM-%23f9ad00.svg?style=for-the-badge&logo=pnpm&logoColor=white" /></span>
 
+***
+
 ## 개인 프로젝트
 
-### 플러터 + 웹(Vue | React) 앱 만들기
+#### 플러터 + 웹(Vue | React) 앱 만들기
   - `식단기록`, `감정일기`, `AI퀴즈` 등
   - https://j-wantplan.web.app
 
-### 가끔 사용하는 웹 툴
+#### 종종 필요한 기능 모음
   - `이미지 리사이징` `이미지 압축` `이미지 크롭` `CSS inline` 등
   - https://jood-lab.web.app
