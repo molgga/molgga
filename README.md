@@ -9,7 +9,6 @@
 <span><img src="https://img.shields.io/badge/nuxtjs-%2303c16a.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=%23ffffff" /></span>
 <span><img src="https://img.shields.io/badge/react-%23087ea4.svg?style=for-the-badge&logo=react&logoColor=%23ffffff" /></span>
 <span><img src="https://img.shields.io/badge/nextjs-%23111111.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff" /></span>
-<span><img src="https://img.shields.io/badge/angular-%23e23237.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff" /></span>
 <span><img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/vite-%239762ff.svg?style=for-the-badge&logo=vite&logoColor=white" /></span>
