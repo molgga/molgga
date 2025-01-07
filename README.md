@@ -19,6 +19,11 @@
 
 ***
 
+## 포트폴리오
+이직중: https://polydactyl-toaster-633.notion.site/16f4406acbea80fdb8dddff237c6f9c9
+
+***
+
 ## 개인 프로젝트
 
 #### 플러터 + 웹(Vue | React) 앱 만들기
