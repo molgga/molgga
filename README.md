@@ -20,7 +20,7 @@
 ***
 
 ## 포트폴리오
-구직중: https://polydactyl-toaster-633.notion.site/16f4406acbea80fdb8dddff237c6f9c9
+구직중🥲: https://polydactyl-toaster-633.notion.site/16f4406acbea80fdb8dddff237c6f9c9
 
 ***
 
