@@ -1,6 +1,3 @@
-
-## 관심 있는것
-
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/javascript-%23ff0000.svg?style=for-the-badge&logo=javascript&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></span>
