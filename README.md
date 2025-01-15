@@ -17,15 +17,3 @@
 
 ## 포트폴리오
 https://polydactyl-toaster-633.notion.site/16f4406acbea80fdb8dddff237c6f9c9
-
-***
-
-## 개인 프로젝트
-
-#### 플러터 + 웹(Vue | React) 앱 만들기
-  - `식단기록`, `감정일기`, `AI퀴즈` 등
-  - https://j-wantplan.web.app
-
-#### 종종 필요한 기능 모음
-  - `이미지 리사이징` `이미지 압축` `이미지 크롭` `CSS inline` 등
-  - https://jood-lab.web.app
