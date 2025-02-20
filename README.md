@@ -13,7 +13,3 @@
 <span><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" /></span>
 
-***
-
-## 포트폴리오
-https://polydactyl-toaster-633.notion.site/16f4406acbea80fdb8dddff237c6f9c9
